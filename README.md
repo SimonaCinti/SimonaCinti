@@ -10,7 +10,7 @@ Sono una **Junior Web Developer** appassionata di tecnologie e computer.
 
 <hr>
 
-<img src="https://github.com/SimonaCinti/testformat/blob/main/webdev.png" width="550">
+<img src="https://github.com/SimonaCinti/SimonaCinti/blob/main/webdev.png" width="550">
 
 <hr>
 
