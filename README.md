@@ -18,13 +18,15 @@ I love turning complex business logic into clean, usable interfaces, and I'm alw
 
 ```javascript
 const simona = {
-  role: "Full-stack Web Developer → Frontend / React",
-  languages: ["JavaScript (ES6+)", "TypeScript", "PHP", "HTML5", "CSS3"],
-  frontend: ["React", "React Native", "Livewire", "Tailwind CSS", "Inertia.js"],
-  backend: ["Laravel", "REST APIs"],
-  databases: ["PostgreSQL", "MariaDB", "MySQL"],
-  ai: ["OpenAI API", "Embeddings", "RAG with Pinecone"],
-  currentlyLearning: ["React (deep dive)", "TypeScript", "Algorithms & CS fundamentals"],
+  role: "Full-stack Web Developer → Frontend",
+  yearsOfExperience: 5,
+  openToWork: true,
+  code: [JavaScript(ES6), TypeScript, PHP, HTML5, CSS3],
+  frontend: [React, ReactNative, Livewire, Tailwind, Inertia],
+  backend: [Laravel, RestAPI],
+  database: [PostgreSQL, MariaDB, MySQL],
+  ai: [OpenAI, Embeddings, Pinecone(RAG)],
+  learning: () => [React, TypeScript, Algorithms],
   motto: "Per Aspera Ad Astra 🚀",
 };
 ```
