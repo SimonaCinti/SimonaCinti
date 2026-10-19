@@ -3,10 +3,12 @@
 ![Italy](https://img.shields.io/badge/From-Italy-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 [![Linkedin: simona](https://img.shields.io/badge/-SimonaCinti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simona-cinti-0097b4b4/)](https://www.linkedin.com/in/simona-cinti-0097b4b4/)
 
-### Glad to see you here! 🙋‍♀️
+### Hi there, I'm Simona! 🙋‍♀️
 
 
-Sono una **Junior Web Developer** appassionata di tecnologie e computer.
+Full-stack Web Developer with ~5 years of hands-on experience building real-world products — now growing towards frontend & React.
+
+I love turning complex business logic into clean, usable interfaces, and I'm always learning something new.
 
 <hr>
 
@@ -16,12 +18,15 @@ Sono una **Junior Web Developer** appassionata di tecnologie e computer.
 
 ```javascript
 const simona = {
-  code: [Javascript(ES6), HTML5, CSS3, SASS, PHP],
-  frameworks: [Vue, Laravel, Bootstrap, Jquery],
-  database: [MySQL],
+  role: "Full-stack Web Developer → Frontend / React",
+  languages: ["JavaScript (ES6+)", "TypeScript", "PHP", "HTML5", "CSS3"],
+  frontend: ["React", "React Native", "Livewire", "Tailwind CSS", "Inertia.js"],
+  backend: ["Laravel", "REST APIs"],
+  databases: ["PostgreSQL", "MariaDB", "MySQL"],
+  ai: ["OpenAI API", "Embeddings", "RAG with Pinecone"],
+  currentlyLearning: ["React (deep dive)", "TypeScript", "Algorithms & CS fundamentals"],
   motto: "Per Aspera Ad Astra 🚀",
-  challenge: "Currently working on improving my web-dev skills 🦾📚"
-}
+};
 ```
 
 
